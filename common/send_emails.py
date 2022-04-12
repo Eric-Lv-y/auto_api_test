@@ -17,10 +17,10 @@ def _foemat_addr(s):
     return  formataddr((Header(name,'utf-8').encode(),addr))
 
 def send_mail():
-    from_addr = "1299496488@qq.com"
-    recive_addr = ['1299496488@qq.com']
+    from_addr = "**@qq.com"
+    recive_addr = ['**@qq.com']
     smtp_server = "smtp.qq.com"
-    License_Key = "xvekvziqrpowfdie"
+    License_Key = "**"
     locatime = time.strftime('%Y-%m-%d %H:%M:%S')
     logs = common.Commom().get_logs()
     info =  '''

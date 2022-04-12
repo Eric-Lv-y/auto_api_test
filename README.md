@@ -7,10 +7,10 @@ python版本：3.8
 依赖包：requests,unittest,HTMLTestReportCN,ddt，xlrd；
 工具：pycharm 2020.1；
 
-#pip freeze > requirements.txt #生成依赖
-下载依赖：pip install -r requirements.txt
-
+    pip freeze > requirements.txt #生成依赖
+下载依赖：
+```pip install -r requirements.txt```
 ## 下载代码
-
+    git clone 
 ## Jenkins部署
 https://blog.csdn.net/IceKing12138/article/details/123904549

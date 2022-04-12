@@ -1,0 +1,1 @@
+{"headers": {"Content-Type": "application/json"}, "url": "https://jiuzhang-wx.sit.zcfh.tech/customer/login", "body": {"wxCode": "hPb2h2X9309wX666Xw1o33h1031ho4J2", "mobile": "18137373289", "code": "123456"}, "expect":"oOCeO5EsASfnH0SC9FxoT90fTnEk", "fs":"post"}
